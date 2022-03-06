@@ -20,7 +20,7 @@ Software Requirments
 4. Install dependencies
 
 ```
-$ pip install -r dependency.txt
+   $ pip install -r dependency.txt
 ```
 
 **Start the application and check response**
@@ -73,4 +73,4 @@ $ python3 app.py debug
 $ py.test
 ```
 
-To show results press Ctrl+C
+To show test results press Ctrl+C
